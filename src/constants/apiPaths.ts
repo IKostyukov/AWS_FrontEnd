@@ -1,0 +1,9 @@
+const API_PATHS = {
+  product: "https://lee9wtso5l.execute-api.eu-west-1.amazonaws.com/dev",
+  order: "https://.execute-api.eu-west-1.amazonaws.com/dev",
+  import: "https://lee9wtso5l.execute-api.eu-west-1.amazonaws.com/dev",
+  bff: "https://lee9wtso5l.execute-api.eu-west-1.amazonaws.com/dev",
+  cart: "https://.execute-api.eu-west-1.amazonaws.com/dev",
+};
+
+export default API_PATHS;
